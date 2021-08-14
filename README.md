@@ -15,8 +15,8 @@ LeetCode Algorithm 문제 풀이 후 github에 업로드
   
 
 ### Study Progress Board
-|no|진행일|내용|링크|             
-|:---:|:---:|:---|:---|      
+|no|진행일|문제|문제 링크|             
+|:---:|:---:|:---:|:---:|      
 |1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|    
   
   

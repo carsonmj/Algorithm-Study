@@ -21,8 +21,10 @@
 |no|진행일|문제|문제 링크|             
 |:---:|:---:|:---:|:---:|      
 |1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|    
+|1|2021년 8월 3주차|88. Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|
 
 <br />
 
 ### 📂 Algorithm Problems & Solve(LeetCode)
 - [7. Reverse Integer](./7.Reverse_Integer)  
+- [88. Merge Sorted Array](./8.Merge_Sorted_Array)

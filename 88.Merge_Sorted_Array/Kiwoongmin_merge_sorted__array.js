@@ -13,6 +13,10 @@ var merge = function(nums1, m, nums2, n) {
         nums1[i] = nums2[i - m];
     }
   
+    
+    nums1.sort((a, b) => a - b);
+    
+    /*
     for(let j = 0; j < length; j++) {
         for(let k = j + 1; k < length; k++) {
             if (nums1[j] > nums1[k]) {
@@ -22,4 +26,5 @@ var merge = function(nums1, m, nums2, n) {
             } 
         }
     }
+    */
 };

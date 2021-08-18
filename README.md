@@ -27,4 +27,4 @@
 
 ### 📂 Algorithm Problems & Solve(LeetCode)
 - [7. Reverse Integer](./7.Reverse_Integer)  
-- [88. Merge Sorted Array](./8.Merge_Sorted_Array)
+- [88. Merge Sorted Array](./88.Merge_Sorted_Array)

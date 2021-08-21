@@ -3,7 +3,7 @@
  * @param {string} goal
  * @return {boolean}
  */
- var buddyStrings = function(s, goal) {
+ const buddyStrings = function(s, goal) {
     if (s.length != goal.length || s.length < 2 || goal.length < 2) {
         return false;    
     }

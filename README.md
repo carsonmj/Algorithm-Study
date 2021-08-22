@@ -22,7 +22,7 @@
 |:---:|:---:|:---:|:---:|      
 |1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|    
 |2|2021년 8월 3주차|88. Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|
-|3|2021년 8월 4주차|https://leetcode.com/problems/counting-bits/|
+|3|2021년 8월 4주차|338. Counting Bits|https://leetcode.com/problems/counting-bits/|
 <br />
 
 ### 📂 Algorithm Problems & Solve(LeetCode)

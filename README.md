@@ -19,7 +19,7 @@
   
 ### 📑 Study Progress Board
 |no|진행일|문제|문제 링크|분류|             
-|:--:|:----:|:----:|:---:|:---:|      
+|:--:|:----:|:----|:---|:---|      
 |1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|Math|    
 |2|2021년 8월 3주차|88. Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|Array|
 |3|2021년 8월 4주차|338. Counting Bits|https://leetcode.com/problems/counting-bits/|Dynamic Programming|

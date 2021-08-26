@@ -7,7 +7,6 @@
  */
 var merge = function(nums1, m, nums2, n) {
     let arrayLength = m + n
-    let temp = [];
 
     for (let i = m; i < arrayLength; i++) {
         nums1[i] = nums2[i - m];

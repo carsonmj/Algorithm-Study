@@ -27,6 +27,8 @@
 |5|2021년 9월 1주차|1221. Split a String in Balanced Strings|https://leetcode.com/problems/split-a-string-in-balanced-strings/|
 |6||617. Merge Two Binary Trees|https://leetcode.com/problems/merge-two-binary-trees/|
 |7||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
+|8||14. Longest Common Prefix|https://leetcode.com/problems/longest-common-prefix/|
+|9||13. Roman to Integer|https://leetcode.com/problems/roman-to-integer/|
 <br />
 
 ### 📂 Algorithm Problems & Solve(LeetCode)

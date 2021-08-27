@@ -18,12 +18,15 @@
 <br />
   
 ### 📑 Study Progress Board
-|no|진행일|문제|문제 링크|분류|             
-|:--:|:----:|:----|:---|:---|      
-|1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|Math|    
-|2|2021년 8월 3주차|88. Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|Array|
-|3|2021년 8월 4주차|338. Counting Bits|https://leetcode.com/problems/counting-bits/|Dynamic Programming|
-|4||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|Depth-First Search|
+|no|진행일|문제|문제 링크|             
+|:--:|:----:|:----|:---|      
+|1|2021년 8월 2주차|7. Reverse Integer|https://leetcode.com/problems/reverse-integer/|    
+|2|2021년 8월 3주차|88. Merge Sorted Array|https://leetcode.com/problems/merge-sorted-array/|
+|3|2021년 8월 4주차|338. Counting Bits|https://leetcode.com/problems/counting-bits/|
+|4||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
+|5|2021년 9월 1주차|1221. Split a String in Balanced Strings|https://leetcode.com/problems/split-a-string-in-balanced-strings/|
+|6||617. Merge Two Binary Trees|https://leetcode.com/problems/merge-two-binary-trees/|
+|7||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
 <br />
 
 ### 📂 Algorithm Problems & Solve(LeetCode)

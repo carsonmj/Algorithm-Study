@@ -12,6 +12,12 @@
  * @param {number} high
  * @return {number}
  */
- var rangeSumBST = function(root, low, high) {
-    
+var rangeSumBST = function(root, low, high) {
+    return root.reduce((accumulator, currentValue) => {
+        if (low <= currentValue && high >= currentValue) {
+            return accumulator + currentValue;
+        } else {
+            return accumulator;
+        }
+    });
 };

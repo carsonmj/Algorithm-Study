@@ -4,7 +4,7 @@
 #### study 진행 
 ✔ 매주 월~일 Algorithm 문제 해결 / 일요일까지 github에 풀이 업로드  
 #### preparation
-✔ LeetCode Algorithm 문제 풀이 후 github에 업로드
+✔ Algorithm 문제 풀이 후 github에 업로드
   
 <br />
 
@@ -29,10 +29,16 @@
 |7||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
 |8||14. Longest Common Prefix|https://leetcode.com/problems/longest-common-prefix/|
 |9||13. Roman to Integer|https://leetcode.com/problems/roman-to-integer/|
+|10|2021년 9월 2주차|직사각형 별찍기|https://programmers.co.kr/learn/courses/30/lessons/12969|
+|11||x만큼 간격이 있는 n개의 숫자|https://programmers.co.kr/learn/courses/30/lessons/12954|
+|12||행렬의 덧셈|https://programmers.co.kr/learn/courses/30/lessons/12950|
+|13||핸드폰 번호 가리기|https://programmers.co.kr/learn/courses/30/lessons/12948|
+|14||하샤드 수|https://programmers.co.kr/learn/courses/30/lessons/12947|
+
 <br />
 
-### 📂 Algorithm Problems & Solve(LeetCode)
-- [7. Reverse Integer](./7.Reverse_Integer)  
-- [88. Merge Sorted Array](./88.Merge_Sorted_Array)
-- [338. Counting Bits](./338.Counting_Bits)
-- [938. Range Sum of BST](./938.Range_Sum_of_BST)
+### 📂 Algorithm Problems & Solve
+- [LeetCode 7. Reverse Integer](./7.Reverse_Integer)  
+- [LeetCode 88. Merge Sorted Array](./88.Merge_Sorted_Array)
+- [LeetCode 338. Counting Bits](./338.Counting_Bits)
+- [LeetCode 938. Range Sum of BST](./938.Range_Sum_of_BST)

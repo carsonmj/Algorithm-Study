@@ -26,14 +26,13 @@
 |4||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
 |5|2021년 9월 1주차|1221. Split a String in Balanced Strings|https://leetcode.com/problems/split-a-string-in-balanced-strings/|
 |6||617. Merge Two Binary Trees|https://leetcode.com/problems/merge-two-binary-trees/|
-|7||938. Range Sum of BST|https://leetcode.com/problems/range-sum-of-bst/|
-|8||14. Longest Common Prefix|https://leetcode.com/problems/longest-common-prefix/|
-|9||13. Roman to Integer|https://leetcode.com/problems/roman-to-integer/|
-|10|2021년 9월 2주차|직사각형 별찍기|https://programmers.co.kr/learn/courses/30/lessons/12969|
-|11||x만큼 간격이 있는 n개의 숫자|https://programmers.co.kr/learn/courses/30/lessons/12954|
-|12||행렬의 덧셈|https://programmers.co.kr/learn/courses/30/lessons/12950|
-|13||핸드폰 번호 가리기|https://programmers.co.kr/learn/courses/30/lessons/12948|
-|14||하샤드 수|https://programmers.co.kr/learn/courses/30/lessons/12947|
+|7||14. Longest Common Prefix|https://leetcode.com/problems/longest-common-prefix/|
+|8||13. Roman to Integer|https://leetcode.com/problems/roman-to-integer/|
+|9|2021년 9월 2주차|직사각형 별찍기|https://programmers.co.kr/learn/courses/30/lessons/12969|
+|10||x만큼 간격이 있는 n개의 숫자|https://programmers.co.kr/learn/courses/30/lessons/12954|
+|11||행렬의 덧셈|https://programmers.co.kr/learn/courses/30/lessons/12950|
+|12||핸드폰 번호 가리기|https://programmers.co.kr/learn/courses/30/lessons/12948|
+|13||하샤드 수|https://programmers.co.kr/learn/courses/30/lessons/12947|
 
 <br />
 

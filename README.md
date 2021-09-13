@@ -33,6 +33,11 @@
 |11||행렬의 덧셈|https://programmers.co.kr/learn/courses/30/lessons/12950|
 |12||핸드폰 번호 가리기|https://programmers.co.kr/learn/courses/30/lessons/12948|
 |13||하샤드 수|https://programmers.co.kr/learn/courses/30/lessons/12947|
+|14|2021년 9월 3주차|평균 구하기|https://programmers.co.kr/learn/courses/30/lessons/12944|
+|15||콜라츠 추측|https://programmers.co.kr/learn/courses/30/lessons/12943|
+|16||최대공약수와 최소공배수|https://programmers.co.kr/learn/courses/30/lessons/12940|
+|17||짝수와 홀수|https://programmers.co.kr/learn/courses/30/lessons/12937|
+|18||제일 작은 수 제거하기|https://programmers.co.kr/learn/courses/30/lessons/12935|
 
 <br />
 
